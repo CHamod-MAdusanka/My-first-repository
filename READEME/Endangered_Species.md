@@ -42,4 +42,4 @@ Every species we lose is a thread pulled from the tapestry of life. We are the f
 
 
 ## Endangered Species
-![Endangered Rhino](rhino1.jpg)
+![Rhino](rhino1.jpg)
